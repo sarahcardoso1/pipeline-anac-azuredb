@@ -1,0 +1,9 @@
+{
+	"name": "Factory-sarah",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45c53c51-d8d6-4d09-9fe8-654b446b2420",
+		"tenantId": "bdd9e946-ab53-43de-b438-a40134a98354"
+	}
+}
